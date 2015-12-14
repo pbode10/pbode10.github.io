@@ -1,0 +1,33 @@
+.container {
+	background-color: #a3a3c2;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	padding: 20px 120px 20px 120px;
+	border-radius: 15px;
+}
+.content-top_bar {
+	font-size: 20px;
+}
+.name {
+	font-size: 80px;
+}
+.general li {
+	font-size: 20px;
+}
+.education li {
+	font-size: 20px;
+}
+.pharmacy li {
+	font-size: 15px;
+	font-weight: normal;
+}
+.spt li {
+	font-size: 15px;
+	font-weight: normal;
+}
+.ic li {
+	font-size: 15px;
+	font-weight: normal;
+}
